@@ -19,5 +19,8 @@ Interactive Excel dashboard to analyze employee data.
 ## Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
+## Dataset
+[Download Dataset](data/foundit_employee_dataset.zip)
+
 ## My Role
 Data cleaning, pivot tables, and dashboard design.
